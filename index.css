@@ -1,0 +1,30 @@
+body
+{
+	background-image: linear-gradient(to bottom, #ff5400, #ff6469, #ff89ae, #ffb2e1, #fbd7fc, #dde6ff, #c4f4ff, #c4fdff, #74fff2, #00ffca, #00ff88, #47ff00);
+    background-size:cover ;
+	background-position: center;
+	margin-top: 100px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+P {
+	font-family: bold;
+	font-size: 20px;
+	color: Black;
+  
+  }
